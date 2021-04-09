@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "MoneyPie",
+    "description": "The saving game demo",
+    "slug": "TSG-client",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/rsz_logosquare2.png",
+    "splash": {
+      "image": "./assets/rsz_logosquare2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3cb371"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sgi.moneypie"
+    },
+    "android": {
+      "package": "com.sgi.moneypie"
+    }
+  }
+}

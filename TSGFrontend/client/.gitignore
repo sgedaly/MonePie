@@ -1,0 +1,6 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+reset-cache/*
+ios/*
+yarn.lock
